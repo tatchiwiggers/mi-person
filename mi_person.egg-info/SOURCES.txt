@@ -1,0 +1,8 @@
+setup.py
+mi_person.egg-info/PKG-INFO
+mi_person.egg-info/SOURCES.txt
+mi_person.egg-info/dependency_links.txt
+mi_person.egg-info/not-zip-safe
+mi_person.egg-info/requires.txt
+mi_person.egg-info/top_level.txt
+scripts/mi-person-run

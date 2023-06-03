@@ -151,4 +151,3 @@ google-cloud-bigquery
 google-cloud-texttospeech
 google-cloud-aiplatform
 google-cloud-domains
-google-cloud-bigquery[pandas]==2.0.2
